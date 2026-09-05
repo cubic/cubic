@@ -1,4 +1,5 @@
 Hi, I'm Jakub 👋
+
 I'm a freelance PHP developer focused on custom e-commerce systems, integrations and backend development.
 I’ve been building web applications for 17+ years, with most of my recent work centered around long-running, high-traffic e-commerce projects.
 
